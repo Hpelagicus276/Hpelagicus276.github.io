@@ -1,5 +1,6 @@
-
-main:
+# main links
+main: "Home"
+url: https://hpelagicus276.github.io/
   title: "카테고리"
   url: https://hpelagicus276.github.io/categories/
   title: "태그"
