@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Hpelagicus276 Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Hpelagicus276"
 description              : " Embedded, IoT, Image processing"
 url                      : "https://Hpelagicus276.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/Hpelagicus276"
+       #url: "https://github.com/Hpelagicus276"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
