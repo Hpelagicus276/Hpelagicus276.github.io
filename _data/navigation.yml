@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "About" # 네비게이션 바에 표시 되는 이름
+  title: "About" # 네비게이션 바에 표시 되는 이름
   url: "/about/" # 클릭시 이동할 URL
-  - title: "카테고리"
+  title: "카테고리"
   url: /categories/
-  - title: "태그"
+  title: "태그"
   url: /tags/
   # - title: "Sample Posts"
   #   url: /year-archive/
